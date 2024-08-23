@@ -1,0 +1,10 @@
+# Core libraries for distributed file system functionality
+requests==2.28.1        # HTTP library for making requests between components
+
+# For testing
+pytest==7.4.2           # Testing framework
+
+# For development
+flake8==6.0.0           # Code linting
+black==23.7.0           # Code formatting
+mypy==0.991             # Static type checking

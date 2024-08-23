@@ -1,0 +1,13 @@
+
+### **.gitignore**
+
+Make sure to include a `.gitignore` file to prevent unnecessary files from being tracked by Git.
+
+```plaintext
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env
