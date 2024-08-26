@@ -1,6 +1,6 @@
 # Distributed File System
 
-![Distributed File System]
+
 
 ## Table of Contents
 
